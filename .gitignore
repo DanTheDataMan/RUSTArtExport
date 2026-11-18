@@ -1,0 +1,21 @@
+# Build and editor leftovers
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Exported images, configs and data copied from a server while testing
+data/
+configs/
+config/
+lang/
+*.png
+*.jpg
+*.webp
